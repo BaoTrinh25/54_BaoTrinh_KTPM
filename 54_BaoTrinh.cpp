@@ -2,6 +2,6 @@
 
 int main() {
 	std::cout << "Hello World!";
-	std::cout << "Thêm nội dung, push nhánh mới";
+	std::cout << "Thêm nội dung mới";
 	return 0;
 }
